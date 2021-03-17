@@ -1,0 +1,7 @@
+D:\proekt\C#\If\If\If\bin\Debug\If.exe.config
+D:\proekt\C#\If\If\If\bin\Debug\If.exe
+D:\proekt\C#\If\If\If\bin\Debug\If.pdb
+D:\proekt\C#\If\If\If\obj\Debug\If.csprojAssemblyReference.cache
+D:\proekt\C#\If\If\If\obj\Debug\If.csproj.CoreCompileInputs.cache
+D:\proekt\C#\If\If\If\obj\Debug\If.exe
+D:\proekt\C#\If\If\If\obj\Debug\If.pdb
